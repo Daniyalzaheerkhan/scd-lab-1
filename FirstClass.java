@@ -11,6 +11,7 @@ class FirstClass{
         String add4 = add3.concat(str5);
         System.out.println("Concatenated String : "+add4);
         String conv = str4.toUpperCase();
-        System.out.println("4th String in uppercase : "+conv);
+        System.out.println("4th String in lowercase : "+conv);
+        string str6= " sdc lab 1 ";
     }
 }
